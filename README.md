@@ -40,14 +40,6 @@ API sederhana dengan autentikasi JWT untuk marketplace, dibangun menggunakan **P
    ```
    Server berjalan di: http://localhost:3000
 
-## 🔑 Environment Variables
-
-File .env harus berisi:
-
-```env
-JWT_SECRET=your_strong_secret_here
-PORT=3000
-```
 
 ## 📡 Endpoint
 
