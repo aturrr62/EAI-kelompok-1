@@ -34,13 +34,7 @@ API sederhana dengan autentikasi JWT untuk marketplace, dibangun menggunakan **P
    pip install -r requirements.txt
    ```
 
-5. Buat file .env berdasarkan .env.example:
-   ```env
-   JWT_SECRET=supersecretkey123!
-   PORT=3000
-   ```
-
-6. Jalankan server:
+5. Jalankan server:
    ```bash
    python app.py
    ```
